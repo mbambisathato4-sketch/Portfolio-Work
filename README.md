@@ -20,7 +20,7 @@ My journey in Tech has led me to develop a passion for Networking and Cloud, and
 | Azure Virtual Machine deployment and configuration               | Secure Virtual Network (VNet) with Subnets & NSGs|
 | Azure Storage Account creation and security configuration        | Secure Virtual Network (VNet) with Subnets & NSGs|
 | Microsoft Sentinel (cloud SIEM) deployment and configuration                  | Secure Virtual Network (VNet) with Subnets & NSGs|
-
+| Microsoft Sentinel (cloud SIEM) deployment and configuration                  | Secure Virtual Network (VNet) with Subnets & NSGs|
 
 ## Tools
 

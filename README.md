@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Thato Mbambisa
 <a href="https://www.linkedin.com/in/thato-mbambisa-208345256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 

@@ -15,7 +15,7 @@ My journey in Tech has led me to develop a passion for Networking and Cloud, and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Designing and deploying a segmented Azure Virtual Network           | <a href="https://google.com">Detection Lab</a>|
+| Designing and deploying a segmented Azure Virtual Network           | <a href="https://github.com/mbambisathato4-sketch/Secure-Virtual-Network-VNet-with-Subnets-NSGs/tree/main">Secure Virtual Network (VNet) with Subnets & NSGs</a>|
 | Azure Entra ID (Azure AD) user and group management             | <a href="https://google.com">Detection Lab</a>|
 | Azure Virtual Machine deployment and configuration               | Secure Virtual Network (VNet) with Subnets & NSGs|
 | Azure Storage Account creation and security configuration        | Secure Virtual Network (VNet) with Subnets & NSGs|
@@ -55,7 +55,7 @@ My journey in Tech has led me to develop a passion for Networking and Cloud, and
 </div>
 
 ## Projects
-- Secure Virtual Network (VNet) with Subnets & NSGs
+- <a href="https://github.com/mbambisathato4-sketch/Secure-Virtual-Network-VNet-with-Subnets-NSGs/tree/main">Secure Virtual Network (VNet) with Subnets & NSGs</a>
 - Azure Active Directory — IAM, MFA & RBAC
 - Deploy a Virtual Machine & Harden Its Security
 - Azure Storage, Backup & Disaster Recovery

@@ -20,7 +20,7 @@ My journey in Tech has led me to develop a passion for Networking and Cloud, and
 | Azure Virtual Machine deployment and configuration               | Secure Virtual Network (VNet) with Subnets & NSGs|
 | Azure Storage Account creation and security configuration        | Secure Virtual Network (VNet) with Subnets & NSGs|
 | Microsoft Sentinel (cloud SIEM) deployment and configuration                  | Secure Virtual Network (VNet) with Subnets & NSGs|
-| Microsoft Sentinel (cloud SIEM) deployment and configuration                  | Secure Virtual Network (VNet) with Subnets & NSGs|
+| BGP                  | <a href="https://github.com/mbambisathato4-sketch/BGP-Topology-Configuration">BGP-Topology-Configuration</a>|
 
 ## Tools
 
@@ -60,4 +60,5 @@ My journey in Tech has led me to develop a passion for Networking and Cloud, and
 - Deploy a Virtual Machine & Harden Its Security
 - Azure Storage, Backup & Disaster Recovery
 - Cloud Security Monitoring Dashboard (Microsoft Sentinel)
+- <a href="https://github.com/mbambisathato4-sketch/BGP-Topology-Configuration">BGP-Topology-Configuration</a>
   
